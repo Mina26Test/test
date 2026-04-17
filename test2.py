@@ -33,6 +33,7 @@ def test_run_pipeline_end_to_end():
     df = pd.DataFrame({"value": [1, None, 2]})
     result = run_pipeline(df)
     assert result["double"].tolist() == [2, 4]
+    assert 1 == 1
 
     test_clean_data()
     test_transform_data()
