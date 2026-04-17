@@ -1,0 +1,39 @@
+Metadata-Version: 2.4
+Name: test
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: colorama==0.4.6
+Requires-Dist: coverage-badge~=1.1.0
+Requires-Dist: pandas==2.2.3
+Requires-Dist: pipeline==0.1
+Requires-Dist: pytest==7.2.2
+Requires-Dist: pytest-cov==4.0.0
+Requires-Dist: requests==2.31.0
+Requires-Dist: ruff==0.0.260
+Dynamic: license-file
+
+# test
+testy
+dasdas
+s
+das
+dsa
+dsa
+da
+sd
+asd
+sa
+
+as
+as
+
+sds
+ad
+asd
+sa
+dsa
+dadas
+d
