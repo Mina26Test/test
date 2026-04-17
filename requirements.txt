@@ -1,0 +1,5 @@
+requests==2.31.0
+colorama==0.4.6
+pandas==2.2.3
+pipeline==0.1
+pytest==9.0.3
