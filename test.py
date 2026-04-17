@@ -19,7 +19,7 @@ def run_pipeline(df: pd.DataFrame) -> pd.DataFrame:
 
 def test_clean_data():
     df = pd.DataFrame({"value": [1, None, 3]})
-    cleaned = clean_data(f)
+    cleaned = clean_data(df)
     assert len(cleaned) == 2
     assert cleaned["value"].tolist() == [1, 3]
 
